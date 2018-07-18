@@ -17,3 +17,6 @@ DECORATOR
  *interfaz unificada para trabajar con conjuntos de interfaces de un subsistema
   define una interface de alto nivel. hace que el subsistema sea mas facil e usar.
 
+ Flyweight
+  * nos recomienda conpartir datos(comunes) entre objetos del mismo tipo para hacerlos mas livianos
+    cuando se trabaja con muchos objectos
